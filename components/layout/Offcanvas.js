@@ -15,7 +15,7 @@ export default function Offcanvas({
                             <div className="offcanvas__top mb-5 d-flex justify-content-between align-items-center">
                                 <div className="offcanvas__logo">
                                     <Link href="/">
-                                        <h3>TRUELINE NETWORKS INC</h3>
+                                        <h3>TRULINE NETWORKS INC</h3>
                                     </Link>
                                 </div>
                                 <div className="offcanvas__close" onClick={handleOffCanvas}>
@@ -46,7 +46,7 @@ JAMAICA, NY, 11432, USA</Link>
                                             <i className="fal fa-envelope" />
                                         </div>
                                         <div className="offcanvas__contact-text">
-                                            <Link href="/mailto:info@azent.com"><span className="mailto:Truelinenetworks@gmail.com">Truelinenetworks@gmail.com </span></Link>
+                                            <Link href="/mailto:info@azent.com"><span className="mailto:Trulinenetwork @gmail.com">Trulinenetwork @gmail.com </span></Link>
                                         </div>
                                     </li>
                                     <li className="d-flex align-items-center">

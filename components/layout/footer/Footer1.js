@@ -16,15 +16,15 @@ export default function Footer1() {
                                 <div className="single-footer-widget">
                                     <div className="widget-head">
                                         <Link href="/">
-                                            <h2 className="text-white">TRUELINE NETWORKS INC</h2>
+                                            <h2 className="text-white">TRULINE NETWORKS INC</h2>
                                         </Link>
                                     </div>
                                     <div className="footer-content">
                                         <p>
-                                        At TRUELINE NETWORKS INC, we are dedicated to providing top-notch internet services to homes and businesses. Our mission is to deliver fast, reliable, and affordable connectivity, ensuring you stay connected with the world seamlessly.
+                                        At TRULINE NETWORKS INC, we are dedicated to providing top-notch internet services to homes and businesses. Our mission is to deliver fast, reliable, and affordable connectivity, ensuring you stay connected with the world seamlessly.
                                         </p>
                                         <p>
-                                         TRUELINE NETWORKS INC
+                                         TRULINE NETWORKS INC
                                         </p>
                                      
                                     </div>
@@ -48,7 +48,7 @@ JAMAICA, NY, 11432, USA
                                             </li>
                                             <li className="d-flex ">
                                                 <i className="fa-regular fa-envelope mt-1" />
-                                                <Link href="/mailto:Truelinenetworks@gmail.com ">Truelinenetworks@gmail.com </Link>
+                                                <Link href="/mailto:Trulinenetwork @gmail.com ">Trulinenetwork @gmail.com </Link>
                                             </li>
                                             <li className="d-flex ">
                                                 <Link href="/"> <img src="./assets/img/cradit cards.png" className="img-fluid" /> </Link>
@@ -134,7 +134,7 @@ JAMAICA, NY, 11432, USA
                     <div className="container">
                         <div className="footer-wrapper d-flex align-items-center justify-content-center mt-5 pt-4">
                             <p className="wow fadeInLeft color-2" data-wow-delay=".3s">
-                                © All Copyright {new Date().getFullYear()}  |   Trueline <Link href="/">NETWORK INC</Link>
+                                © All Copyright {new Date().getFullYear()}  |   Truline <Link href="/">NETWORK INC</Link>
                             </p>
                            
                         </div>
