@@ -17,10 +17,10 @@ export default function ServiceCarousel() {
                             <div className="section-title ">
                                 <span className="wow fadeInUp">Wireless 5G Internet</span>
                                 <h2 className="wow fadeInUp" data-wow-delay=".3s">
-                                5G Brilliance Unleashed with TRULINE NETWORKS INC
+                                5G Brilliance Unleashed with TRUELINE NETWORKS INC
                                 </h2>
                                 <p className="fw-semibold pt-5">
-                                Enter the world of TRULINE NETWORKS INC, where wireless 5G internet transcends typical service to become a personalized journey of unmatched speed, reliability, and customization. We invite you to an enhanced connectivity realm where every interaction is swift, seamless, and secure, tailored to fit your distinct lifestyle and digital demands.
+                                Enter the world of TRUELINE NETWORKS INC, where wireless 5G internet transcends typical service to become a personalized journey of unmatched speed, reliability, and customization. We invite you to an enhanced connectivity realm where every interaction is swift, seamless, and secure, tailored to fit your distinct lifestyle and digital demands.
                                 </p>
                                 
                                 <div className="d-flex align-items-center gap-3 mt-4">
@@ -28,7 +28,7 @@ export default function ServiceCarousel() {
                                 <h4>Exquisitely Crafted 5G Plans</h4>
                                 </div>
                                 <p className="fw-semibold pt-4">
-                                Understanding that every user, enterprise, and application has a unique connectivity footprint, TRULINE NETWORKS INC unveils a suite of 5G plans, each meticulously tailored. For the avid gamer, the professional, or the everyday internet enthusiast, our offerings are fine-tuned to resonate with your specific internet needs, delivering a customized experience.
+                                Understanding that every user, enterprise, and application has a unique connectivity footprint, TRUELINE NETWORKS INC unveils a suite of 5G plans, each meticulously tailored. For the avid gamer, the professional, or the everyday internet enthusiast, our offerings are fine-tuned to resonate with your specific internet needs, delivering a customized experience.
                                  </p>
 
                                 <div className="d-flex align-items-center gap-3 mt-4">
@@ -36,7 +36,7 @@ export default function ServiceCarousel() {
                                 <h4>Speed and Performance Revolutionized</h4>
                                 </div>
                                 <p className="fw-semibold pt-4">
-                                Step into the future with TRULINE NETWORKS INC, where 5G speeds are not just a feature but a standard. Every download, stream, and click is instant, thanks to our cutting-edge technology that ensures your online experiences are marked by unparalleled speed and efficiency, turning boundaries into horizons.                           
+                                Step into the future with TRUELINE NETWORKS INC, where 5G speeds are not just a feature but a standard. Every download, stream, and click is instant, thanks to our cutting-edge technology that ensures your online experiences are marked by unparalleled speed and efficiency, turning boundaries into horizons.                           
                                  </p>
 
                                  
@@ -45,7 +45,7 @@ export default function ServiceCarousel() {
                                 <h4>Ubiquitous Connectivity</h4>
                                 </div>
                                 <p className="fw-semibold pt-4">
-                                At TRULINE NETWORKS INC, location is no barrier to exceptional internet access. Our robust 5G network permeates urban landscapes and tranquil rural settings alike, ensuring that top-notch internet connectivity is a universal norm, an emblem of our commitment to erasing digital divides.
+                                At TRUELINE NETWORKS INC, location is no barrier to exceptional internet access. Our robust 5G network permeates urban landscapes and tranquil rural settings alike, ensuring that top-notch internet connectivity is a universal norm, an emblem of our commitment to erasing digital divides.
                                  </p>
 
                                  <div className="d-flex align-items-center gap-3 mt-4">
@@ -53,7 +53,7 @@ export default function ServiceCarousel() {
                                 <h4>A Bastion of Security</h4>
                                 </div>
                                 <p className="fw-semibold pt-4">
-                                In a world rife with digital complexities, TRULINE NETWORKS INC prioritizes your online security. Our 5G offerings are infused with advanced security protocols, ensuring that every data exchange, every online moment, is under the vigilant guard of pinnacle cybersecurity standards
+                                In a world rife with digital complexities, TRUELINE NETWORKS INC prioritizes your online security. Our 5G offerings are infused with advanced security protocols, ensuring that every data exchange, every online moment, is under the vigilant guard of pinnacle cybersecurity standards
                                  </p>
 
                                  <div className="d-flex align-items-center gap-3 mt-4">
@@ -61,11 +61,11 @@ export default function ServiceCarousel() {
                                 <h4>Unmatched Customer Service</h4>
                                 </div>
                                 <p className="fw-semibold pt-4">
-                                Our service ethos at TRULINE NETWORKS INC transcends transactional interactions, embodying a deep-seated commitment to fostering an environment where customer needs are anticipated, met, and exceeded with a touch of excellence and personalization.
+                                Our service ethos at TRUELINE NETWORKS INC transcends transactional interactions, embodying a deep-seated commitment to fostering an environment where customer needs are anticipated, met, and exceeded with a touch of excellence and personalization.
                                  </p>
 
                                  <p className="fw-semibold py-5">
-                                 Embark on the TRULINE NETWORKS INC 5G Odyssey - Your exploration into a universe where internet connectivity is a blend of art and science begins with TRULINE NETWORKS INC. In our world, 5G internet is not just a service but an experience of personalized connectivity, emblematic speeds, and steadfast support. We invite you to a domain where your unique digital aspirations find expression in tailored plans and exceptional service. Welcome to TRULINE NETWORKS INC - your portal to an era of 5G brilliance encapsulated in every connection.
+                                 Embark on the TRUELINE NETWORKS INC 5G Odyssey - Your exploration into a universe where internet connectivity is a blend of art and science begins with TRUELINE NETWORKS INC. In our world, 5G internet is not just a service but an experience of personalized connectivity, emblematic speeds, and steadfast support. We invite you to a domain where your unique digital aspirations find expression in tailored plans and exceptional service. Welcome to TRUELINE NETWORKS INC - your portal to an era of 5G brilliance encapsulated in every connection.
                                  </p>
 
                                  
