@@ -34,7 +34,7 @@ export default function Contact() {
                                                     <div className="content">
                                                         <p>Call to ask any question</p>
                                                         <div >
-                                                            <Link href="/tel:+1 (863) 852-2692" className="text-white fs-6 fw-bold">+1 (863) 852-2692</Link>
+                                                            <Link href="/tel:+1(347) 970-0908" className="text-white fs-6 fw-bold">+1(347) 970-0908</Link>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -49,7 +49,7 @@ export default function Contact() {
                                                     <div className="content">
                                                         <p>Email to get free quote</p>
                                                         <div >
-                                                            <Link href="/mailto:sales@zolaraconsulting.com " className="text-white fs-6 fw-bold">sales@zolaraconsulting.com </Link>
+                                                            <Link href="/mailto:Trulinenetworks@gmail.com " className="text-white fs-6 fw-bold">Trulinenetworks@gmail.com </Link>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -63,7 +63,8 @@ export default function Contact() {
                                                     <div className="content">
                                                         <p>Location</p>
                                                         <div className="text-white fs-6 fw-bold">
-                                                        17710 Bellaire Boulevard Unit B2, Houston, TX 77036
+                                                        1169-20 HILLSIDE AVE,
+JAMAICA, NY, 11432, USA
                                                         </div>
                                                     </div>
                                                 </div>

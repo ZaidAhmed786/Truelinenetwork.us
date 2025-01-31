@@ -16,15 +16,15 @@ export default function Footer1() {
                                 <div className="single-footer-widget">
                                     <div className="widget-head">
                                         <Link href="/">
-                                            <h2 className="text-white">Zolara Global Tech LLC</h2>
+                                            <h2 className="text-white">TRULINE NETWORKS INC</h2>
                                         </Link>
                                     </div>
                                     <div className="footer-content">
                                         <p>
-                                        At Zolara Global Tech LLC, we are dedicated to providing top-notch internet services to homes and businesses. Our mission is to deliver fast, reliable, and affordable connectivity, ensuring you stay connected with the world seamlessly.
+                                        At TRULINE NETWORKS INC, we are dedicated to providing top-notch internet services to homes and businesses. Our mission is to deliver fast, reliable, and affordable connectivity, ensuring you stay connected with the world seamlessly.
                                         </p>
                                         <p>
-                                         Zolara Global Tech LLC
+                                         TRULINE NETWORKS INC
                                         </p>
                                      
                                     </div>
@@ -39,15 +39,16 @@ export default function Footer1() {
                                         <ul className="contact-info">
                                             <li>
                                                 <i className="fas fa-map-marker-alt" />
-                                                7710 Bellaire Boulevard Unit B2, Houston, TX 77036
+                                                169-20 HILLSIDE AVE,
+JAMAICA, NY, 11432, USA
                                             </li>
                                             <li>
                                                 <i className="fa-solid fa-phone-volume" />
-                                                <Link href="/tel:+1 (863) 852-2692">+1 (863) 852-2692</Link>
+                                                <Link href="/tel:+1(347) 970-0908">+1(347) 970-0908</Link>
                                             </li>
                                             <li className="d-flex ">
                                                 <i className="fa-regular fa-envelope mt-1" />
-                                                <Link href="/mailto:sales@zolaraconsulting.com ">sales@zolaraconsulting.com </Link>
+                                                <Link href="/mailto:Trulinenetworks@gmail.com ">Trulinenetworks@gmail.com </Link>
                                             </li>
                                             <li className="d-flex ">
                                                 <Link href="/"> <img src="./assets/img/cradit cards.png" className="img-fluid" /> </Link>
@@ -133,7 +134,7 @@ export default function Footer1() {
                     <div className="container">
                         <div className="footer-wrapper d-flex align-items-center justify-content-center mt-5 pt-4">
                             <p className="wow fadeInLeft color-2" data-wow-delay=".3s">
-                                © All Copyright {new Date().getFullYear()}  |   Zolara  <Link href="/">Consulting LLC</Link>
+                                © All Copyright {new Date().getFullYear()}  |   TRULINE <Link href="/">NETWORK INC</Link>
                             </p>
                            
                         </div>

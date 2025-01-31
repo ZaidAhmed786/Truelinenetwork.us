@@ -6,7 +6,7 @@ export default function Achievement1() {
         <>
             <section className="achievement-section fix section-padding pt-0">
                 <div className="container">
-                    <div className="achievement-wrapper">
+                    <div className="achievement-wrapper justify-content-center">
                         
                         <div className="counter-area">
                            
